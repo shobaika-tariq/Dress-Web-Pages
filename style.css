@@ -1,0 +1,255 @@
+ body{
+   background-color: black ;
+   flex-wrap: wrap;
+    overflow-x: hidden;
+  
+}
+ /*  nav bar  start  */
+.imm1{
+  height: 130px;
+  margin-left: 40px;
+}
+.dre{
+      display: flex;
+      height: 130px;
+      background-color: #9c9797;
+      box-shadow: 10px 10px 15px #d6cfcf;
+}
+span{
+    color: #fefbfb;
+    font-size: 20px;
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+span:hover{
+    color: #fdca01;
+    font-size: 20px;
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.logos{
+    margin-left: 30px;
+    margin-top: 12px;
+    
+}
+.imm2{
+    height: 30px;
+  
+}
+/*  nav bar  end  */
+/* HOME PAGE START */
+.imm3{
+    margin-left: 800px;
+    height: 350px;
+    border: 2px solid rgb(7, 3, 3);
+    margin-top: 10px;
+}
+.imm4{
+    margin-left: 650px;
+    height: 350px;
+     border: 2px solid rgb(7, 3, 3);
+    margin-top: -800px;
+}
+.imm5{
+    margin-left: 1200px;
+     border: 2px solid rgb(7, 3, 3);
+    height: 350px;
+    margin-top: -900px;
+}
+.imm6{
+    margin-left: 900px;
+     border: 2px solid rgb(7, 3, 3);
+    height: 350px;
+    margin-top: -200px;
+}
+.hom{
+    display: flex;
+    background-color: #9c9797;
+
+}
+.img{
+    /* background-color: #8b3131; */
+    margin-left:-550px;
+}
+.text{
+    background-color: #ffcc018c;
+    border-radius: 20px;
+    border: 3px solid black;
+    box-shadow: 10px 15px 15px 15px #6e5757;
+    margin-left: 200px;
+    height: 300px;
+    margin-top: 120px;
+}
+.head1{
+    color: #ffffff;
+    font-size: 45px;
+}
+p{
+    color: #780000;
+    font-size: 30px;
+}
+.imm7{
+    height: 20px;
+}
+button{
+    height: 40px;
+    font-size: 15px;
+    width: 150px;
+}
+/* HOME PAGE END */
+/* model page start */
+.imm8{
+    height: 600px;
+    border: 3px solid #9c9797;
+    box-shadow: 10px 15px 15px  #f3f1f1d2;
+    margin-left: 150px;
+}
+.para{
+    margin-left: 700px;
+    font-size: 70px;
+    color: #fefbfb;
+    margin-top: -600px;
+}
+u{
+    color: #fefdfd;
+    height: 1px;
+}
+.para1{
+    color: #fefbfb;
+    margin-left: 700px;
+}
+.imm9{
+    
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.mo{
+    margin-left: 700px;
+    margin-top: -50px;
+    width: 200px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid;
+    border-color: #fefbfb;
+}
+.mo:hover{
+    width: 200px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border: 2px solid;
+    border-color: #fefbfb;
+}
+.imm10{
+    width: 20px;
+    margin-left: 10px;
+}
+.imm11{
+   margin-left: 150px;
+   margin-top: -200px;
+}
+/* model page end*/
+/* wedding page start  */
+.head2{
+    color: #beb8b8;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 550px;
+}
+.head2:hover{
+    color: #e9b700;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 550px;
+  
+}
+.imm12{
+    height: 500px;
+    background-image: url(images/beautiful-woman-grey-evening-dress-260nw-569566273.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imm12:hover{
+    height: 500px;
+    background-image: url(images/images\ \(9\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.para2{
+    color: #f4efef;
+    margin-left: 50px;
+    font-size: 30px;
+}
+.mol{
+    margin-left: 50px;
+    background-color:black;
+    color: #fefbfb;
+    border: 2px solid white;
+}
+.lal{
+    margin-top: -250px;
+}
+.imm13{
+    height: 250px;
+    box-shadow: 10px 10px 15px white;
+    margin-left: 800px;
+    width: 300px;
+}
+.imm14{
+    height: 250px;
+     box-shadow: 10px 10px 15px white;
+    margin-left: 1120px;
+    margin-top: -280px;
+    width: 300px;
+}
+/* weddind page end */
+/* gala start  */
+.head3{
+    color: rgb(213, 154, 6);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 400px;
+}
+.imm15{
+    margin-left: 200px;
+}
+.pic{
+     margin-left: 700px;
+     margin-top: -600px;
+}
+.para3{
+    color: goldenrod;
+    margin-right: 50px;
+    font-size: 25px;
+}
+/* gala end */
+/* navbar start */
+.nav{
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/images\ \(11\).jpg);
+    display: flex ;
+    
+}
+.haa{
+    margin-left: 450px;
+}
+.imm17{
+    height: 25px; 
+}
+.imm18{
+    margin-left: 20px;
+    margin-top: 40px;
+    height: 100px;
+}
+.para4{
+    color: #beb8b8;
+    margin-left: 20px;
+    margin-top: 80px;
+    font-size: 20px;
+}
+/* navbar end */
