@@ -10,8 +10,6 @@
   margin-left: 40px;
 }
 .dre{
-      position: fixed;
-      margin-right: 200px;
       display: flex;
       height: 130px;
       background-color: #9c9797;
